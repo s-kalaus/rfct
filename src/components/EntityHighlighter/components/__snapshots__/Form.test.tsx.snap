@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form renders component 1`] = `
+<div>
+  <div>
+    <input
+      data-testid="input"
+      placeholder="Entity label"
+      type="text"
+      value="Label"
+    />
+    <button
+      data-testid="button"
+    >
+      Add entity for selection
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Entities renders component 1`] = `
+<div>
+  <div
+    style="text-align: left; position: absolute; top: 6px; left: 6px; right: 6px; color: transparent; pointer-events: none; padding: 0px; white-space: pre-wrap; word-break: break-word; font-family: source-code-pro, Menlo, Monaco, Consolas, \\"Courier New\\", monospace; font-size: 14px;"
+  >
+    
+    <span
+      style="opacity: 0.3; background-color: rgb(1, 255, 112);"
+    />
+    Text
+  </div>
+</div>
+`;

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useEntityHighlighter return default values 1`] = `
+Object {
+  "addEntity": [Function],
+  "deleteEntity": [Function],
+  "focusedEntities": Array [],
+  "handleSelectionChange": [Function],
+  "handleTextChange": [Function],
+  "hasZeroSelection": true,
+  "inputNode": Object {
+    "current": Object {
+      "addEventListener": [MockFunction] {
+        "calls": Array [
+          Array [
+            "select",
+            [Function],
+            false,
+          ],
+          Array [
+            "click",
+            [Function],
+            false,
+          ],
+          Array [
+            "keydown",
+            [Function],
+            false,
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      },
+      "removeEventListener": [MockFunction],
+    },
+  },
+  "selection": Object {
+    "label": "",
+    "selectionEnd": 0,
+    "selectionStart": 0,
+  },
+  "unmount": [Function],
+}
+`;

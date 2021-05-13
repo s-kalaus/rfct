@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FocusedEntities renders component 1`] = `
+<div>
+  <div
+    style="word-break: break-word;"
+  >
+    
+     (Label)
+    <button
+      data-testid="button"
+      style="border: 0px none; cursor: pointer; background-color: transparent;"
+    >
+      <span
+        aria-label="Delete"
+        role="img"
+      >
+        🗑️
+      </span>
+    </button>
+  </div>
+</div>
+`;

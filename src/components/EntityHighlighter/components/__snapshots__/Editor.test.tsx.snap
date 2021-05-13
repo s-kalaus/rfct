@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Editor renders component 1`] = `
+<div>
+  <div
+    style="position: relative;"
+  >
+    <textarea
+      data-testid="textarea"
+      rows="10"
+      style="font-family: source-code-pro, Menlo, Monaco, Consolas, \\"Courier New\\", monospace; font-size: 14px; background: none; border: 1px solid; width: 100%; resize: none; padding: 5px; white-space: pre-wrap; box-sizing: border-box; word-break: break-word;"
+    >
+      Text
+    </textarea>
+    mock-entities: {"entities":[{"selectionStart":0,"selectionEnd":0,"label":"Label"}],"text":"Text"}
+  </div>
+</div>
+`;

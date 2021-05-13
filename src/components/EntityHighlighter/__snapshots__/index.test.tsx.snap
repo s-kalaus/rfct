@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index renders component 1`] = `
+<div>
+  mock-editor: {"text":"Hello World","entities":[{"selectionStart":0,"selectionEnd":5,"label":"Test"}],"mockRef":{}}
+  mock-form: {"label":"","disabled":true}
+  mock-focused-entities: {"text":"Hello World","entities":[]}
+</div>
+`;
+
+exports[`index renders component: no ref 1`] = `
+<div>
+  mock-editor: {"text":"Hello World","entities":[{"selectionStart":0,"selectionEnd":5,"label":"Test"}],"mockRef":null}
+  mock-form: {"label":"","disabled":true}
+  mock-focused-entities: {"text":"Hello World","entities":[]}
+</div>
+`;
